@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Botas Cowboy de Mujer: El Estilo Vaquero más Femenino</title>
+	<style>
+		body {
+			font-family: Arial, sans-serif;
+			margin: 0;
+			padding: 0;
+		}
+		header {
+			background-color: #c1d1e0;
+			color: #fff;
+			padding: 20px;
+			text-align: center;
+		}
+		h1 {
+			font-size: 3em;
+			margin: 0;
+		}
+		main {
+			max-width: 800px;
+			margin: 0 auto;
+			padding: 20px;
+		}
+		img {
+			max-width: 100%;
+			height: auto;
+			margin-bottom: 20px;
+		}
+		h2 {
+			font-size: 2em;
+			margin-top: 40px;
+			margin-bottom: 20px;
+		}
+		p {
+			line-height: 1.5;
+			margin-bottom: 20px;
+		}
+		ul {
+			margin-left: 20px;
+			margin-bottom: 20px;
+		}
+		li {
+			line-height: 1.5;
+		}
+		footer {
+			background-color: #c1d1e0;
+			color: #fff;
+			padding: 10px;
+			text-align: center;
+		}
+	</style>
+</head>
+<body>
+	<header>
+		<h1>Botas Cowboy de Mujer: El Estilo Vaquero más Femenino</h1>
+	</header>
+	<main>
+		<img src="https://via.placeholder.com/800x400.png?text=Botas+Cowboy+de+Mujer" alt="Botas Cowboy de Mujer">
+		<h2>Introducción</h2>
+		<p>Las botas cowboy son un icono de la moda vaquera, pero no solo para hombres. Las mujeres también han adoptado este estilo con una versión más femenina y elegante. Las botas cowboy de mujer son perfectas para cualquier ocasión, desde un paseo por el campo hasta una noche en la ciudad. Con su estilo rústico y auténtico, estas botas son el complemento perfecto para cualquier atuendo, ya sea vestido o pantalón.</p>
+css
+Copy code
+	<h2>Estilos</h2>
+	<p>Las botas cowboy de mujer vienen en una variedad de estilos y materiales. Algunos estilos tienen un tacón alto, lo que las hace perfectas para una noche de fiesta, mientras que otros tienen un tacón bajo o sin tacón para mayor comodidad durante todo el día. Las botas cowboy de mujer también vienen en diferentes materiales, desde cuero liso hasta cuero con textura, e incluso con estampados. Los diseños de bordados y remaches pueden variar, desde simples y elegantes hasta intrincados y detallados.</p>
+	<p>Además, las botas cowboy de mujer también pueden tener diferentes alturas. Algunas botas llegan hasta la pantorrilla, mientras que otras pueden llegar hasta el tobillo. Cada estilo y altura de bota puede adaptarse a diferentes gustos y necesidades de estilo.</p>
+
+	<h2>Cómo Usarlas</h2>
+	<p>Las botas cowboy de mujer son versátiles y pueden ser usadas con una variedad de atuendos.</p>
+  </body>
+  </html>
